@@ -15,7 +15,8 @@ def axes():
     xmin, xmax = ax.get_xlim() 
     ymin, ymax = ax.get_ylim()
     ax.xaxis.set_ticks_position('bottom')
-
+    ax.spines['bottom'].set_color('none')
+    ax.spines['left'].set_color('none')
     # get width and height of axes object to compute 
     # matching arrowhead length and width
     #dps = fig.dpi_scale_trans.inverted()

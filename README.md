@@ -6,7 +6,6 @@ This packages provides you with a short function, that moves the axis to the poi
 ## Installation
 
 ```
-cd schoolplot
 pip install -e . --user
 ```
 
