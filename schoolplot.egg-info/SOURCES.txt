@@ -1,0 +1,9 @@
+setup.py
+schoolplot/__init__.py
+schoolplot/axes.py
+schoolplot.egg-info/PKG-INFO
+schoolplot.egg-info/SOURCES.txt
+schoolplot.egg-info/dependency_links.txt
+schoolplot.egg-info/not-zip-safe
+schoolplot.egg-info/requires.txt
+schoolplot.egg-info/top_level.txt
